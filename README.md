@@ -1,16 +1,19 @@
-## Hi there 👋
+**bem vindo ao meu perfil**
 
-<!--
-**leandr722/Leandr722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Meu nome e Leandro**
 
-Here are some ideas to get you started:
+**Estou estudando na [Alura.](https://www.alura.com.br)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Estou me desenvolvendo na linguagem javaScript**
+
+**Utilizando esse espaço para minha organização do meu projeto**
+
+![](https://media1.tenor.com/m/on61eHxj6OUAAAAC/trollge-troll-smile.gif)
+
+
+
+
+
+
+
+
